@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Blake Coffee!
+### 🚀 Developer | 🌍 Creator | 📚 Lifelong Learner
 
-<!--
-**coffeedevsolutions/coffeedevsolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://your-header-image-url.com)
 
-Here are some ideas to get you started:
+## 🌟 About Me
+I'm a versatile developer and creator passionate about building innovative apps, websites, and games.  
+💻 Currently working on:  
+- A React Native mobile app  
+- A first-person story game in Unity  
+- An advocate handbook for my startup, Whir
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals for 2024:  
+- Mastering advanced animation with Framer Motion  
+- Creating open-source tools for React developers
+
+## 📊 GitHub Stats
+![Blake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coffeedevtools&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffeedevtools&layout=compact&theme=radical)
+
+## 🔧 Technologies & Tools
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo) ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity) ![Godot](https://img.shields.io/badge/-Godot-blue?style=flat-square&logo=godot-engine)
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/blake-coffee)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:blake.coffee8@gmail.com)
+
+## 🌱 Fun Fact
+"Creativity is contagious, pass it on!" – Albert Einstein
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=coffeedevtools)
