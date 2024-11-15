@@ -1,20 +1,4 @@
-# 👋 Hi, I'm Blake Coffee!
-### 🚀 Developer | 🌍 Creator | 📚 Lifelong Learner
-
 ![Header](https://your-header-image-url.com)
-
-## 🌟 About Me
-I'm a versatile developer and creator passionate about building innovative apps, websites, and games.  
-💻 Currently working on:  
-- A React Native mobile app  
-- A first-person story game in Unity  
-- An advocate handbook for my startup, Whir
-
-🎯 Goals for 2024:  
-- Mastering advanced animation with Framer Motion  
-- Creating open-source tools for React developers
-
-## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffeedevsolutions&layout=donut&theme=gruvbox)
 
 ## 🔧 Technologies & Tools
