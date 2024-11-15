@@ -1,4 +1,3 @@
-![Header](https://your-header-image-url.com)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffeedevsolutions&layout=donut&theme=gruvbox)
 
 ## 🔧 Technologies & Tools
@@ -7,8 +6,3 @@
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/blake-coffee)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:blake.coffee8@gmail.com)
-
-## 🌱 Fun Fact
-"Creativity is contagious, pass it on!" – Albert Einstein
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=coffeedevtools)
