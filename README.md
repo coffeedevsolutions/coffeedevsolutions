@@ -15,9 +15,7 @@ I'm a versatile developer and creator passionate about building innovative apps,
 - Creating open-source tools for React developers
 
 ## 📊 GitHub Stats
-[![Blake's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffeedevsolutions)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffeedevsolutions&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffeedevsolutions&layout=compact&theme=ambientgradient)
 
 ## 🔧 Technologies & Tools
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo) ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity) ![Godot](https://img.shields.io/badge/-Godot-blue?style=flat-square&logo=godot-engine)
